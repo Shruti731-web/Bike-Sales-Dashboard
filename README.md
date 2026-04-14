@@ -26,4 +26,6 @@ An interactive Bike Sales Dashboard built in Microsoft Excel to analyze customer
 
  - Dashboarard interaction <a href="https://github.com/Shruti731-web/Bike-Sales-Dashboard/blob/main/Screenshot%202026-04-14%20005301.png"> view dashboard</a>
  ## Dashboard
+ <img width="546" height="718" alt="Screenshot 2026-04-14 005301" src="https://github.com/user-attachments/assets/21650e47-a208-47e3-bccc-6dba664bc2a3" />
+
 
