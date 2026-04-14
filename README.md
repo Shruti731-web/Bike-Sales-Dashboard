@@ -28,15 +28,16 @@ An interactive Bike Sales Dashboard built in Microsoft Excel to analyze customer
  ## Dashboard
  <img width="546" height="718" alt="Screenshot 2026-04-14 005301" src="https://github.com/user-attachments/assets/21650e47-a208-47e3-bccc-6dba664bc2a3" />
  
-## ✅ Final Conclusion
-The Bike Sales Dashboard project demonstrates how Microsoft Excel can be effectively used for data cleaning, analysis, and visualization. By using working sheets, Pivot Tables, and interactive charts, raw data was transformed into meaningful insights. The dashboard provides a clear understanding of customer purchasing behavior and supports better decision-making through an organized and user-friendly interface.
-
-## 🔍 Project Insights
+ ## 🔍 Project Insights
 - Higher income groups are more likely to purchase bikes
 - Middle-aged customers show the highest buying tendency
 - Sales vary significantly across different regions
 - Gender and marital status influence purchasing decisions
 - Data visualization helps in quick and effective understanding of trends
 - Interactive dashboard improves data exploration and usability
+- 
+## ✅ Final Conclusion
+The Bike Sales Dashboard project demonstrates how Microsoft Excel can be effectively used for data cleaning, analysis, and visualization. By using working sheets, Pivot Tables, and interactive charts, raw data was transformed into meaningful insights. The dashboard provides a clear understanding of customer purchasing behavior and supports better decision-making through an organized and user-friendly interface.
+
 
 
