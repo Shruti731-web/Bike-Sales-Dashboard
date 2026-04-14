@@ -1,2 +1,3 @@
 # Bike-Sales-Dashboard
-Data-driven Bike Sales Dashboard built in Excel with working sheets, Pivot analysis, and interactive visuals. Highlights trends in customer demographics and regional sales performance.
+#project overview
+#An interactive Bike Sales Dashboard built in Microsoft Excel to analyze customer purchasing trends. The project uses structured working sheets for data cleaning and transformation, converting raw data into meaningful visual insights.
